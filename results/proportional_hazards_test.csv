@@ -1,0 +1,9 @@
+,test_statistic,p,-log2(p)
+age,3.5,0.061,4.026
+hormonal_therapy,0.261,0.609,0.715
+log2_estrogen_receptor,1.792,0.181,2.468
+log2_progesterone_receptor,0.205,0.651,0.619
+positive_nodes,0.388,0.533,0.907
+postmenopausal,0.0,0.998,0.003
+tumour_grade,3.372,0.066,3.914
+tumour_size_mm,0.168,0.682,0.552

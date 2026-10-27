@@ -1,0 +1,11 @@
+fold,model,c_index
+1,Cox regression,0.6153846153846154
+1,Random survival forest,0.6373358348968106
+2,Cox regression,0.7065666041275798
+2,Random survival forest,0.699624765478424
+3,Cox regression,0.7029526858769122
+3,Random survival forest,0.7129135538954109
+4,Cox regression,0.6778510473235065
+4,Random survival forest,0.7083010085337471
+5,Cox regression,0.700376014248961
+5,Random survival forest,0.69958440530378

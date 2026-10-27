@@ -1,0 +1,9 @@
+scikit-survival
+lifelines
+pandas
+numpy
+matplotlib
+scikit-learn
+notebook
+nbconvert
+ipykernel
